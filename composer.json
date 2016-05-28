@@ -12,5 +12,6 @@
         "psr-4" : {
 			"Kw5\\Math\\" : "src/"
 		}
-    }
+    },
+    "minimum-stability": "dev"
 }
