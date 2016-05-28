@@ -1,0 +1,16 @@
+{
+    "name": "kw5/math",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kw5 kw5",
+            "email": "kwiatek5@vp.pl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+			"Kw5\\Math\\" : "src/"
+		}
+    }
+}
